@@ -99,6 +99,15 @@ Soru 2 : Class selector ile id selector arasındaki en önemli fark aşağıdaki
   - Class selector’ler yanlızca block level elementler için kullanılır. id ise inline elementler için kullanılır
   - Class’lar sadece renk ve border özellikleri için kullanılır. id her style için kullanılabilir.
   - Class selectorler istenildiği kadar kullanılabilir. id selector’ler yanlızca bir kere kullanılabilir. (Doğru)
+  
+  
+  
+  # KAYNAKÇA
+  
+     -  https://www.idebu.com/blog/css-kodlari
+     - https://www.brandingturkiye.com/html-css-javascript-nedir-niye-onemlidir/
+     - https://www.w3schools.com/css/default.asp
+     - https://www.tech-worm.com/css-nedir-ne-ise-yarar-css-nasil-ogrenilir/
    
 
 
